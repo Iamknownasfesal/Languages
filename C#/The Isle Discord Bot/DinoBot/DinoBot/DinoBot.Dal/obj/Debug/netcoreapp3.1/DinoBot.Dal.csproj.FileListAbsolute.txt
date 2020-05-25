@@ -1,0 +1,9 @@
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.AssemblyInfoInputs.cache
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.AssemblyInfo.cs
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\bin\Debug\netcoreapp3.1\DinoBot.Dal.deps.json
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\bin\Debug\netcoreapp3.1\DinoBot.Dal.dll
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\bin\Debug\netcoreapp3.1\DinoBot.Dal.pdb
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.dll
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.pdb
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.csprojAssemblyReference.cache
+C:\Users\Fesal\Desktop\DinoBot\DinoBot\DinoBot.Dal\obj\Debug\netcoreapp3.1\DinoBot.Dal.csproj.CoreCompileInputs.cache

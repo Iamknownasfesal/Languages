@@ -1,0 +1,12 @@
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\bin\Debug\netcoreapp3.1\DinoBot.Core.deps.json
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\bin\Debug\netcoreapp3.1\DinoBot.Core.dll
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\bin\Debug\netcoreapp3.1\DinoBot.Core.pdb
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\bin\Debug\netcoreapp3.1\DinoBot.Dal.dll
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\bin\Debug\netcoreapp3.1\DinoBot.Dal.pdb
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.csprojAssemblyReference.cache
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.AssemblyInfoInputs.cache
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.AssemblyInfo.cs
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.csproj.CopyComplete
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.dll
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.pdb
+C:\Users\Fesal\Desktop\Discord_Bots\DinoBot\DinoBot\DinoBot.Core\obj\Debug\netcoreapp3.1\DinoBot.Core.csproj.CoreCompileInputs.cache

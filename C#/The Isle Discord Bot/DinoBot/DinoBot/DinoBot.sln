@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinoBot", "DinoBot\DinoBot.csproj", "{0316C498-A11D-4123-8828-7547E8352815}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinoBot.Dal.Migrations", "DinoBot.Dal.Migrations\DinoBot.Dal.Migrations.csproj", "{5F1A070A-4F37-42A7-9D31-DD963091E501}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinoBot.Dal", "DinoBot.Dal\DinoBot.Dal.csproj", "{04AA2D74-6B09-4D4D-BDDB-40FD2529874A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DinoBot.Bot", "DinoBot.Bot", "{E510B928-BDE5-430D-AB43-03191D153CC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DinoBot.Dal", "DinoBot.Dal", "{1EC462DF-BECD-4AD0-AA50-6F2987176971}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DinoBot.Core", "DinoBot.Core", "{7EA73F16-BF21-422F-97CA-9540EB751105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoBot.Core", "DinoBot.Core\DinoBot.Core.csproj", "{C0AAA518-A86E-489E-BF8A-B6A8F9946325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0316C498-A11D-4123-8828-7547E8352815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0316C498-A11D-4123-8828-7547E8352815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0316C498-A11D-4123-8828-7547E8352815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0316C498-A11D-4123-8828-7547E8352815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1A070A-4F37-42A7-9D31-DD963091E501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1A070A-4F37-42A7-9D31-DD963091E501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1A070A-4F37-42A7-9D31-DD963091E501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1A070A-4F37-42A7-9D31-DD963091E501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AA2D74-6B09-4D4D-BDDB-40FD2529874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AA2D74-6B09-4D4D-BDDB-40FD2529874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AA2D74-6B09-4D4D-BDDB-40FD2529874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AA2D74-6B09-4D4D-BDDB-40FD2529874A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AAA518-A86E-489E-BF8A-B6A8F9946325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AAA518-A86E-489E-BF8A-B6A8F9946325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AAA518-A86E-489E-BF8A-B6A8F9946325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AAA518-A86E-489E-BF8A-B6A8F9946325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0316C498-A11D-4123-8828-7547E8352815} = {E510B928-BDE5-430D-AB43-03191D153CC2}
+		{5F1A070A-4F37-42A7-9D31-DD963091E501} = {1EC462DF-BECD-4AD0-AA50-6F2987176971}
+		{04AA2D74-6B09-4D4D-BDDB-40FD2529874A} = {1EC462DF-BECD-4AD0-AA50-6F2987176971}
+		{C0AAA518-A86E-489E-BF8A-B6A8F9946325} = {7EA73F16-BF21-422F-97CA-9540EB751105}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2944469A-6141-431C-BD49-9FCB4A8CBEF4}
+	EndGlobalSection
+EndGlobal
